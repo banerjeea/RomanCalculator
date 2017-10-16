@@ -1,0 +1,6 @@
+C:\Projects\RomanCalculator\RomanCalculator\bin\Debug\RomanCalculator.exe.config
+C:\Projects\RomanCalculator\RomanCalculator\bin\Debug\RomanCalculator.exe
+C:\Projects\RomanCalculator\RomanCalculator\bin\Debug\RomanCalculator.pdb
+C:\Projects\RomanCalculator\RomanCalculator\obj\Debug\RomanCalculator.exe
+C:\Projects\RomanCalculator\RomanCalculator\obj\Debug\RomanCalculator.pdb
+C:\Projects\RomanCalculator\RomanCalculator\obj\Debug\RomanCalculator.csprojResolveAssemblyReference.cache

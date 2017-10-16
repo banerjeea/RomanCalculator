@@ -1,0 +1,9 @@
+C:\Projects\RomanCalculator\Test.RomanCalculator\bin\Debug\Test.RomanCalculator.dll
+C:\Projects\RomanCalculator\Test.RomanCalculator\bin\Debug\Test.RomanCalculator.pdb
+C:\Projects\RomanCalculator\Test.RomanCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\RomanCalculator\Test.RomanCalculator\bin\Debug\RomanCalculator.exe
+C:\Projects\RomanCalculator\Test.RomanCalculator\bin\Debug\RomanCalculator.pdb
+C:\Projects\RomanCalculator\Test.RomanCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Projects\RomanCalculator\Test.RomanCalculator\obj\Debug\Test.RomanCalculator.csprojResolveAssemblyReference.cache
+C:\Projects\RomanCalculator\Test.RomanCalculator\obj\Debug\Test.RomanCalculator.dll
+C:\Projects\RomanCalculator\Test.RomanCalculator\obj\Debug\Test.RomanCalculator.pdb
